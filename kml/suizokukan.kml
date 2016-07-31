@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>suizokukan.kml</name>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<color>ffffff00</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffff00</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<color>ffffff00</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffff00</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>水族館</name>
+		<open>1</open>
+		<Placemark>
+			<name>しながわ水族館</name>
+			<description>TEl: 03-3762-3433
+営業時間：　10:00-16:30(火曜日定休)</description>
+			<LookAt>
+				<longitude>139.7376602088059</longitude>
+				<latitude>35.58862315515762</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001618202682558667</heading>
+				<tilt>17.4358683284865</tilt>
+				<range>450.5626227016703</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7373686048727,35.58858451015968,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>すみだ水族館</name>
+			<description>TEL: 03-5691-1821
+営業時間：9:00-21:00(定休日なし)</description>
+			<LookAt>
+				<longitude>139.8097928952341</longitude>
+				<latitude>35.71002372044904</latitude>
+				<altitude>0</altitude>
+				<heading>8.136176930651822e-011</heading>
+				<tilt>0</tilt>
+				<range>1006.798299391349</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8097928952341,35.71002372044904,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>サンシャイン水族館</name>
+			<description>TEL: 03-3938-3466
+営業時間：10:00-20:00(定休日なし)
+</description>
+			<LookAt>
+				<longitude>139.7199156249246</longitude>
+				<latitude>35.72883375295868</latitude>
+				<altitude>0</altitude>
+				<heading>-7.03093417884325e-011</heading>
+				<tilt>0</tilt>
+				<range>1002.16282027878</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7198526687295,35.72876986897775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>アクアパーク品川</name>
+			<description>TEL:03-5421-1111
+営業時間：10:00-22:00(定休日なし)</description>
+			<LookAt>
+				<longitude>139.7350866000571</longitude>
+				<latitude>35.62782939961066</latitude>
+				<altitude>0</altitude>
+				<heading>3.328768529619717e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000008778722</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.735268723323,35.62771454664051,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東京タワー水族館</name>
+			<description>営業時間：10:30-19:00(定休日なし)
+</description>
+			<LookAt>
+				<longitude>139.7451711001445</longitude>
+				<latitude>35.65858910012263</latitude>
+				<altitude>0</altitude>
+				<heading>8.426561573069442e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000024192658</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7451711001445,35.65858910012264,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>多摩川ふれあい水族館</name>
+			<description>TEL: 042-545-4120
+営業時間：9:00-16:00(土日休館日)</description>
+			<LookAt>
+				<longitude>139.3679028027462</longitude>
+				<latitude>35.69725379994834</latitude>
+				<altitude>0</altitude>
+				<heading>4.896781987581231e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.655424158874</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.3679028027462,35.69725379994834,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東京都葛西臨海水族館</name>
+			<description>TEL: 03-3869-5152
+営業時間：9:30-17:00</description>
+			<LookAt>
+				<longitude>139.8621649998412</longitude>
+				<latitude>35.64009400043931</latitude>
+				<altitude>0</altitude>
+				<heading>-9.252869679313662e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000108294462</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8621649998412,35.64009400043932,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>井の頭自然文化園　水生物館</name>
+			<description>TEL: 042-246-1100
+営業時間：9:30-17:00</description>
+			<LookAt>
+				<longitude>139.5753647645554</longitude>
+				<latitude>35.70039948778496</latitude>
+				<altitude>0</altitude>
+				<heading>2.26954522349724e-009</heading>
+				<tilt>0</tilt>
+				<range>1049.798391132243</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5753647645554,35.70039948778496,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
